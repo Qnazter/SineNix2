@@ -1,0 +1,578 @@
+----- CLI crash report at 2025-09-24T12:43:35.909Z
+Error Trace
+NetworkError: NetworkError
+    at <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-http-client\src\create-http-client.ts:30:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+caused by: Error: read ECONNRESET
+    at createHttpError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\error.ts:54:10)
+    at HttpClientNode.handleRequestError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:268:26)
+    at HttpClientNode.request (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:105:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+Error Info
+{
+  "code": "ECONNRESET"
+}
+Request Info
+{
+  "request": {
+    "url": "http://localhost:4321/_wix/app-manifest.json",
+    "method": "get",
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "x-wix-bi-gateway": "environment=CLI-Astro,package-version=1.1.119,package-name=dev",
+      "X-XSRF-TOKEN": "nocheck",
+      "Cookie": "XSRF-TOKEN=nocheck",
+      "User-Agent": "wix-cli"
+    }
+  },
+  "response": {
+    "code": "ECONNRESET",
+    "message": "read ECONNRESET"
+  }
+}
+----- CLI crash report at 2025-09-24T12:43:48.489Z
+Error Trace
+NetworkError: NetworkError
+    at <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-http-client\src\create-http-client.ts:30:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+caused by: Error: read ECONNRESET
+    at createHttpError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\error.ts:54:10)
+    at HttpClientNode.handleRequestError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:268:26)
+    at HttpClientNode.request (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:105:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+Error Info
+{
+  "code": "ECONNRESET"
+}
+Request Info
+{
+  "request": {
+    "url": "http://localhost:4321/_wix/app-manifest.json",
+    "method": "get",
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "x-wix-bi-gateway": "environment=CLI-Astro,package-version=1.1.119,package-name=dev",
+      "X-XSRF-TOKEN": "nocheck",
+      "Cookie": "XSRF-TOKEN=nocheck",
+      "User-Agent": "wix-cli"
+    }
+  },
+  "response": {
+    "code": "ECONNRESET",
+    "message": "read ECONNRESET"
+  }
+}
+----- CLI crash report at 2025-09-24T12:44:08.400Z
+Error Trace
+NetworkError: NetworkError
+    at <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-http-client\src\create-http-client.ts:30:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+caused by: Error: read ECONNRESET
+    at createHttpError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\error.ts:54:10)
+    at HttpClientNode.handleRequestError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:268:26)
+    at HttpClientNode.request (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:105:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+Error Info
+{
+  "code": "ECONNRESET"
+}
+Request Info
+{
+  "request": {
+    "url": "http://localhost:4321/_wix/app-manifest.json",
+    "method": "get",
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "x-wix-bi-gateway": "environment=CLI-Astro,package-version=1.1.119,package-name=dev",
+      "X-XSRF-TOKEN": "nocheck",
+      "Cookie": "XSRF-TOKEN=nocheck",
+      "User-Agent": "wix-cli"
+    }
+  },
+  "response": {
+    "code": "ECONNRESET",
+    "message": "read ECONNRESET"
+  }
+}
+----- CLI crash report at 2025-09-24T12:46:11.820Z
+Error Trace
+NetworkError: NetworkError
+    at <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-http-client\src\create-http-client.ts:30:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+caused by: Error: read ECONNRESET
+    at createHttpError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\error.ts:54:10)
+    at HttpClientNode.handleRequestError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:268:26)
+    at HttpClientNode.request (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:105:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+Error Info
+{
+  "code": "ECONNRESET"
+}
+Request Info
+{
+  "request": {
+    "url": "http://localhost:4321/_wix/app-manifest.json",
+    "method": "get",
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "x-wix-bi-gateway": "environment=CLI-Astro,package-version=1.1.119,package-name=dev",
+      "X-XSRF-TOKEN": "nocheck",
+      "Cookie": "XSRF-TOKEN=nocheck",
+      "User-Agent": "wix-cli"
+    }
+  },
+  "response": {
+    "code": "ECONNRESET",
+    "message": "read ECONNRESET"
+  }
+}
+----- CLI crash report at 2025-09-24T12:46:36.904Z
+Error Trace
+NetworkError: NetworkError
+    at <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-http-client\src\create-http-client.ts:30:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+caused by: Error: read ECONNRESET
+    at createHttpError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\error.ts:54:10)
+    at HttpClientNode.handleRequestError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:268:26)
+    at HttpClientNode.request (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:105:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+Error Info
+{
+  "code": "ECONNRESET"
+}
+Request Info
+{
+  "request": {
+    "url": "http://localhost:4321/_wix/app-manifest.json",
+    "method": "get",
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "x-wix-bi-gateway": "environment=CLI-Astro,package-version=1.1.119,package-name=dev",
+      "X-XSRF-TOKEN": "nocheck",
+      "Cookie": "XSRF-TOKEN=nocheck",
+      "User-Agent": "wix-cli"
+    }
+  },
+  "response": {
+    "code": "ECONNRESET",
+    "message": "read ECONNRESET"
+  }
+}
+----- CLI crash report at 2025-09-24T12:59:31.330Z
+Error Trace
+NetworkError: NetworkError
+    at <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-http-client\src\create-http-client.ts:30:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+caused by: Error: read ECONNRESET
+    at createHttpError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\error.ts:54:10)
+    at HttpClientNode.handleRequestError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:268:26)
+    at HttpClientNode.request (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:105:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+Error Info
+{
+  "code": "ECONNRESET"
+}
+Request Info
+{
+  "request": {
+    "url": "http://localhost:4321/_wix/app-manifest.json",
+    "method": "get",
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "x-wix-bi-gateway": "environment=CLI-Astro,package-version=1.1.119,package-name=dev",
+      "X-XSRF-TOKEN": "nocheck",
+      "Cookie": "XSRF-TOKEN=nocheck",
+      "User-Agent": "wix-cli"
+    }
+  },
+  "response": {
+    "code": "ECONNRESET",
+    "message": "read ECONNRESET"
+  }
+}
+----- CLI crash report at 2025-09-24T12:59:50.535Z
+Error Trace
+NetworkError: NetworkError
+    at <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-http-client\src\create-http-client.ts:30:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+caused by: Error: read ECONNRESET
+    at createHttpError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\error.ts:54:10)
+    at HttpClientNode.handleRequestError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:268:26)
+    at HttpClientNode.request (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:105:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+Error Info
+{
+  "code": "ECONNRESET"
+}
+Request Info
+{
+  "request": {
+    "url": "http://localhost:4321/_wix/app-manifest.json",
+    "method": "get",
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "x-wix-bi-gateway": "environment=CLI-Astro,package-version=1.1.119,package-name=dev",
+      "X-XSRF-TOKEN": "nocheck",
+      "Cookie": "XSRF-TOKEN=nocheck",
+      "User-Agent": "wix-cli"
+    }
+  },
+  "response": {
+    "code": "ECONNRESET",
+    "message": "read ECONNRESET"
+  }
+}
+----- CLI crash report at 2025-09-27T08:38:20.006Z
+Error Trace
+NetworkError: NetworkError
+    at <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-http-client\src\create-http-client.ts:30:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+caused by: Error: read ECONNRESET
+    at createHttpError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\error.ts:54:10)
+    at HttpClientNode.handleRequestError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:268:26)
+    at HttpClientNode.request (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:105:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+Error Info
+{
+  "code": "ECONNRESET"
+}
+Request Info
+{
+  "request": {
+    "url": "http://localhost:4321/_wix/app-manifest.json",
+    "method": "get",
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "x-wix-bi-gateway": "environment=CLI-Astro,package-version=1.1.119,package-name=dev",
+      "X-XSRF-TOKEN": "nocheck",
+      "Cookie": "XSRF-TOKEN=nocheck",
+      "User-Agent": "wix-cli"
+    }
+  },
+  "response": {
+    "code": "ECONNRESET",
+    "message": "read ECONNRESET"
+  }
+}
+----- CLI crash report at 2025-09-27T11:47:38.584Z
+Error Trace
+NetworkError: NetworkError
+    at <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-http-client\src\create-http-client.ts:30:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+caused by: Error: read ECONNRESET
+    at createHttpError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\error.ts:54:10)
+    at HttpClientNode.handleRequestError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:268:26)
+    at HttpClientNode.request (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:105:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+Error Info
+{
+  "code": "ECONNRESET"
+}
+Request Info
+{
+  "request": {
+    "url": "http://localhost:4321/_wix/app-manifest.json",
+    "method": "get",
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "x-wix-bi-gateway": "environment=CLI-Astro,package-version=1.1.119,package-name=dev",
+      "X-XSRF-TOKEN": "nocheck",
+      "Cookie": "XSRF-TOKEN=nocheck",
+      "User-Agent": "wix-cli"
+    }
+  },
+  "response": {
+    "code": "ECONNRESET",
+    "message": "read ECONNRESET"
+  }
+}
+----- CLI crash report at 2025-09-27T12:02:42.943Z
+Error Trace
+NetworkError: NetworkError
+    at <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-http-client\src\create-http-client.ts:30:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+caused by: Error: read ECONNRESET
+    at createHttpError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\error.ts:54:10)
+    at HttpClientNode.handleRequestError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:268:26)
+    at HttpClientNode.request (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:105:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+Error Info
+{
+  "code": "ECONNRESET"
+}
+Request Info
+{
+  "request": {
+    "url": "http://localhost:4321/_wix/app-manifest.json",
+    "method": "get",
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "x-wix-bi-gateway": "environment=CLI-Astro,package-version=1.1.119,package-name=dev",
+      "X-XSRF-TOKEN": "nocheck",
+      "Cookie": "XSRF-TOKEN=nocheck",
+      "User-Agent": "wix-cli"
+    }
+  },
+  "response": {
+    "code": "ECONNRESET",
+    "message": "read ECONNRESET"
+  }
+}
+----- CLI crash report at 2025-09-27T12:05:24.383Z
+Error Trace
+NetworkError: NetworkError
+    at <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-http-client\src\create-http-client.ts:30:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+caused by: Error: read ECONNRESET
+    at createHttpError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\error.ts:54:10)
+    at HttpClientNode.handleRequestError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:268:26)
+    at HttpClientNode.request (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:105:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+Error Info
+{
+  "code": "ECONNRESET"
+}
+Request Info
+{
+  "request": {
+    "url": "http://localhost:4322/_wix/app-manifest.json",
+    "method": "get",
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "x-wix-bi-gateway": "environment=CLI-Astro,package-version=1.1.119,package-name=dev",
+      "X-XSRF-TOKEN": "nocheck",
+      "Cookie": "XSRF-TOKEN=nocheck",
+      "User-Agent": "wix-cli"
+    }
+  },
+  "response": {
+    "code": "ECONNRESET",
+    "message": "read ECONNRESET"
+  }
+}
+----- CLI crash report at 2025-09-27T12:38:09.730Z
+Error Trace
+NetworkError: NetworkError
+    at <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-http-client\src\create-http-client.ts:30:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+caused by: Error: read ECONNRESET
+    at createHttpError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\error.ts:54:10)
+    at HttpClientNode.handleRequestError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:268:26)
+    at HttpClientNode.request (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:105:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+Error Info
+{
+  "code": "ECONNRESET"
+}
+Request Info
+{
+  "request": {
+    "url": "http://localhost:4321/_wix/app-manifest.json",
+    "method": "get",
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "x-wix-bi-gateway": "environment=CLI-Astro,package-version=1.1.119,package-name=dev",
+      "X-XSRF-TOKEN": "nocheck",
+      "Cookie": "XSRF-TOKEN=nocheck",
+      "User-Agent": "wix-cli"
+    }
+  },
+  "response": {
+    "code": "ECONNRESET",
+    "message": "read ECONNRESET"
+  }
+}
+----- CLI crash report at 2025-09-27T12:40:30.564Z
+Error Trace
+NetworkError: NetworkError
+    at <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-http-client\src\create-http-client.ts:30:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+caused by: Error: read ECONNRESET
+    at createHttpError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\error.ts:54:10)
+    at HttpClientNode.handleRequestError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:268:26)
+    at HttpClientNode.request (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:105:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+Error Info
+{
+  "code": "ECONNRESET"
+}
+Request Info
+{
+  "request": {
+    "url": "http://localhost:4321/_wix/app-manifest.json",
+    "method": "get",
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "x-wix-bi-gateway": "environment=CLI-Astro,package-version=1.1.119,package-name=dev",
+      "X-XSRF-TOKEN": "nocheck",
+      "Cookie": "XSRF-TOKEN=nocheck",
+      "User-Agent": "wix-cli"
+    }
+  },
+  "response": {
+    "code": "ECONNRESET",
+    "message": "read ECONNRESET"
+  }
+}
+----- CLI crash report at 2025-09-27T12:41:35.919Z
+Error Trace
+NetworkError: NetworkError
+    at <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-http-client\src\create-http-client.ts:30:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+caused by: Error: read ECONNRESET
+    at createHttpError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\error.ts:54:10)
+    at HttpClientNode.handleRequestError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:268:26)
+    at HttpClientNode.request (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:105:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+Error Info
+{
+  "code": "ECONNRESET"
+}
+Request Info
+{
+  "request": {
+    "url": "http://localhost:4321/_wix/app-manifest.json",
+    "method": "get",
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "x-wix-bi-gateway": "environment=CLI-Astro,package-version=1.1.119,package-name=dev",
+      "X-XSRF-TOKEN": "nocheck",
+      "Cookie": "XSRF-TOKEN=nocheck",
+      "User-Agent": "wix-cli"
+    }
+  },
+  "response": {
+    "code": "ECONNRESET",
+    "message": "read ECONNRESET"
+  }
+}
+----- CLI crash report at 2025-09-27T12:59:03.483Z
+Error Trace
+NetworkError: NetworkError
+    at <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-http-client\src\create-http-client.ts:30:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+caused by: Error: read ECONNRESET
+    at createHttpError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\error.ts:54:10)
+    at HttpClientNode.handleRequestError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:268:26)
+    at HttpClientNode.request (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:105:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+Error Info
+{
+  "code": "ECONNRESET"
+}
+Request Info
+{
+  "request": {
+    "url": "http://localhost:4321/_wix/app-manifest.json",
+    "method": "get",
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "x-wix-bi-gateway": "environment=CLI-Astro,package-version=1.1.119,package-name=dev",
+      "X-XSRF-TOKEN": "nocheck",
+      "Cookie": "XSRF-TOKEN=nocheck",
+      "User-Agent": "wix-cli"
+    }
+  },
+  "response": {
+    "code": "ECONNRESET",
+    "message": "read ECONNRESET"
+  }
+}
+----- CLI crash report at 2025-09-28T06:51:41.691Z
+Error Trace
+NetworkError: NetworkError
+    at <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-http-client\src\create-http-client.ts:30:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+caused by: Error: read ECONNRESET
+    at createHttpError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\error.ts:54:10)
+    at HttpClientNode.handleRequestError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:268:26)
+    at HttpClientNode.request (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:105:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+Error Info
+{
+  "code": "ECONNRESET"
+}
+Request Info
+{
+  "request": {
+    "url": "http://localhost:4321/_wix/app-manifest.json",
+    "method": "get",
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "x-wix-bi-gateway": "environment=CLI-Astro,package-version=1.1.120,package-name=dev",
+      "X-XSRF-TOKEN": "nocheck",
+      "Cookie": "XSRF-TOKEN=nocheck",
+      "User-Agent": "wix-cli"
+    }
+  },
+  "response": {
+    "code": "ECONNRESET",
+    "message": "read ECONNRESET"
+  }
+}
+----- CLI crash report at 2025-09-28T06:52:39.198Z
+Error Trace
+NetworkError: NetworkError
+    at <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-http-client\src\create-http-client.ts:30:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+caused by: Error: read ECONNRESET
+    at createHttpError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\error.ts:54:10)
+    at HttpClientNode.handleRequestError (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:268:26)
+    at HttpClientNode.request (C:\Users\USER\Downloads\SineNix\node_modules\node_modules\@wix\http-client\src\http-client.ts:105:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (C:\Users\USER\Downloads\SineNix\node_modules\@wix\cli-astro-commands\src\components\DevCommand\DevCenterUpdater.tsx:61:45)
+Error Info
+{
+  "code": "ECONNRESET"
+}
+Request Info
+{
+  "request": {
+    "url": "http://localhost:4321/_wix/app-manifest.json",
+    "method": "get",
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "x-wix-bi-gateway": "environment=CLI-Astro,package-version=1.1.120,package-name=dev",
+      "X-XSRF-TOKEN": "nocheck",
+      "Cookie": "XSRF-TOKEN=nocheck",
+      "User-Agent": "wix-cli"
+    }
+  },
+  "response": {
+    "code": "ECONNRESET",
+    "message": "read ECONNRESET"
+  }
+}
